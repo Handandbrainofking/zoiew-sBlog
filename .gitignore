@@ -1,0 +1,18 @@
+node_modules
+dist
+docs/.vuepress/dist
+package-lock.json
+yarn.lock
+.DS_Store
+node_modules/
+# .vuepress
+dist
+
+# Editor directories and files
+.idea
+.vscode
+.cache
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
